@@ -1,0 +1,2 @@
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM130-XAML\Exercise1\Calculator\Calculator.UWP\Calculator.UWP.csproj;x86
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM130-XAML\Exercise1\Calculator\Calculator\Calculator.csproj;neutral
