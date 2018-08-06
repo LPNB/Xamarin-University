@@ -1,0 +1,6 @@
+C:\Users\Lory\source\repos\CSC104-Adding-Behavior\Exercise1\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lory\source\repos\CSC104-Adding-Behavior\Exercise1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lory\source\repos\CSC104-Adding-Behavior\Exercise1\Calculator\obj\x86\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC104-Adding-Behavior\Exercise1\Calculator\obj\x86\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC104-Adding-Behavior\Exercise1\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Lory\source\repos\CSC104-Adding-Behavior\Exercise1\Calculator\obj\x86\Debug\Calculator.pdb

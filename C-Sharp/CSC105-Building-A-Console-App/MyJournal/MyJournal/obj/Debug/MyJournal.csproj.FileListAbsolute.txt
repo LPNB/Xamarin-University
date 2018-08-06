@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC105-Building-A-Console-App\MyJournal\MyJournal\obj\Debug\MyJournal.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC105-Building-A-Console-App\MyJournal\MyJournal\obj\Debug\MyJournal.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC105-Building-A-Console-App\MyJournal\MyJournal\bin\Debug\MyJournal.exe.config
+C:\Users\Lory\source\repos\CSC105-Building-A-Console-App\MyJournal\MyJournal\bin\Debug\MyJournal.exe
+C:\Users\Lory\source\repos\CSC105-Building-A-Console-App\MyJournal\MyJournal\bin\Debug\MyJournal.pdb
+C:\Users\Lory\source\repos\CSC105-Building-A-Console-App\MyJournal\MyJournal\obj\Debug\MyJournal.exe
+C:\Users\Lory\source\repos\CSC105-Building-A-Console-App\MyJournal\MyJournal\obj\Debug\MyJournal.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise1\CreatingArrays\bin\Debug\CreatingArrays.exe.config
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise1\CreatingArrays\bin\Debug\CreatingArrays.exe
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise1\CreatingArrays\bin\Debug\CreatingArrays.pdb
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise1\CreatingArrays\obj\Debug\CreatingArrays.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise1\CreatingArrays\obj\Debug\CreatingArrays.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise1\CreatingArrays\obj\Debug\CreatingArrays.exe
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise1\CreatingArrays\obj\Debug\CreatingArrays.pdb

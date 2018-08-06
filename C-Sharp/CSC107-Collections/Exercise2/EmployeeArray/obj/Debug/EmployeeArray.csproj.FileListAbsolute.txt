@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise2\EmployeeArray\bin\Debug\EmployeeArray.exe.config
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise2\EmployeeArray\bin\Debug\EmployeeArray.exe
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise2\EmployeeArray\bin\Debug\EmployeeArray.pdb
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise2\EmployeeArray\obj\Debug\EmployeeArray.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise2\EmployeeArray\obj\Debug\EmployeeArray.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise2\EmployeeArray\obj\Debug\EmployeeArray.exe
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise2\EmployeeArray\obj\Debug\EmployeeArray.pdb

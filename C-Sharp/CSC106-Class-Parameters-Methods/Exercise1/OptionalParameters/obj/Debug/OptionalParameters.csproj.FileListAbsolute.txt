@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise1\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise1\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise1\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise1\OptionalParameters\obj\Debug\OptionalParameters.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise1\OptionalParameters\obj\Debug\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise1\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise1\OptionalParameters\obj\Debug\OptionalParameters.pdb

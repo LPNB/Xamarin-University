@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise2\OutParameters\bin\Debug\OutParameters.exe.config
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise2\OutParameters\bin\Debug\OutParameters.exe
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise2\OutParameters\bin\Debug\OutParameters.pdb
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise2\OutParameters\obj\Debug\OutParameters.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise2\OutParameters\obj\Debug\OutParameters.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise2\OutParameters\obj\Debug\OutParameters.exe
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise2\OutParameters\obj\Debug\OutParameters.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC109-Inheritance-Polymorphism\Exercise1\DerivedTypes\bin\Debug\DerivedTypes.exe.config
+C:\Users\Lory\source\repos\CSC109-Inheritance-Polymorphism\Exercise1\DerivedTypes\bin\Debug\DerivedTypes.exe
+C:\Users\Lory\source\repos\CSC109-Inheritance-Polymorphism\Exercise1\DerivedTypes\bin\Debug\DerivedTypes.pdb
+C:\Users\Lory\source\repos\CSC109-Inheritance-Polymorphism\Exercise1\DerivedTypes\obj\Debug\DerivedTypes.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC109-Inheritance-Polymorphism\Exercise1\DerivedTypes\obj\Debug\DerivedTypes.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC109-Inheritance-Polymorphism\Exercise1\DerivedTypes\obj\Debug\DerivedTypes.exe
+C:\Users\Lory\source\repos\CSC109-Inheritance-Polymorphism\Exercise1\DerivedTypes\obj\Debug\DerivedTypes.pdb

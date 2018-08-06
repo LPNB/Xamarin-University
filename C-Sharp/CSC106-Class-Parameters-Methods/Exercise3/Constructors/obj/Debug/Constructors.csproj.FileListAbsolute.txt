@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise3\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise3\Constructors\bin\Debug\Constructors.exe
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise3\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise3\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise3\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise3\Constructors\obj\Debug\Constructors.exe
+C:\Users\Lory\source\repos\CSC106-Class-Parameters-Methods\Exercise3\Constructors\obj\Debug\Constructors.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC103-OOP\Travel\Travel\bin\Debug\Travel.exe.config
+C:\Users\Lory\source\repos\CSC103-OOP\Travel\Travel\bin\Debug\Travel.exe
+C:\Users\Lory\source\repos\CSC103-OOP\Travel\Travel\bin\Debug\Travel.pdb
+C:\Users\Lory\source\repos\CSC103-OOP\Travel\Travel\obj\Debug\Travel.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC103-OOP\Travel\Travel\obj\Debug\Travel.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC103-OOP\Travel\Travel\obj\Debug\Travel.exe
+C:\Users\Lory\source\repos\CSC103-OOP\Travel\Travel\obj\Debug\Travel.pdb

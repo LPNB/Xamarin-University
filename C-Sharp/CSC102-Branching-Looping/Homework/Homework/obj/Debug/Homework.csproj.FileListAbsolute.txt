@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Homework\Homework\obj\Debug\Homework.pdb

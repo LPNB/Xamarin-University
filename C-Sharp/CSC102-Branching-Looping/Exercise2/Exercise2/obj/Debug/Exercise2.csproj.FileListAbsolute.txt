@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Exercise2\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\Lory\source\repos\CSC102-Branching-Looping\Exercise2\Exercise2\obj\Debug\Exercise2.pdb

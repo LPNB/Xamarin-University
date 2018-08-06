@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise3\ListOfEmployees\bin\Debug\ListOfEmployees.exe.config
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise3\ListOfEmployees\bin\Debug\ListOfEmployees.exe
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise3\ListOfEmployees\bin\Debug\ListOfEmployees.pdb
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise3\ListOfEmployees\obj\Debug\ListOfEmployees.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise3\ListOfEmployees\obj\Debug\ListOfEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise3\ListOfEmployees\obj\Debug\ListOfEmployees.exe
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise3\ListOfEmployees\obj\Debug\ListOfEmployees.pdb

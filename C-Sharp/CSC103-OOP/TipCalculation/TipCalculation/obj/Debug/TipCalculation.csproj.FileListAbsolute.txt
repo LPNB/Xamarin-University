@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC103-OOP\TipCalculation\TipCalculation\bin\Debug\TipCalculation.exe.config
+C:\Users\Lory\source\repos\CSC103-OOP\TipCalculation\TipCalculation\bin\Debug\TipCalculation.exe
+C:\Users\Lory\source\repos\CSC103-OOP\TipCalculation\TipCalculation\bin\Debug\TipCalculation.pdb
+C:\Users\Lory\source\repos\CSC103-OOP\TipCalculation\TipCalculation\obj\Debug\TipCalculation.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC103-OOP\TipCalculation\TipCalculation\obj\Debug\TipCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC103-OOP\TipCalculation\TipCalculation\obj\Debug\TipCalculation.exe
+C:\Users\Lory\source\repos\CSC103-OOP\TipCalculation\TipCalculation\obj\Debug\TipCalculation.pdb

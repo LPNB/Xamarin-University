@@ -1,0 +1,7 @@
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise4\EmployeeDictionary\bin\Debug\EmployeeDictionary.exe.config
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise4\EmployeeDictionary\bin\Debug\EmployeeDictionary.exe
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise4\EmployeeDictionary\bin\Debug\EmployeeDictionary.pdb
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise4\EmployeeDictionary\obj\Debug\EmployeeDictionary.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise4\EmployeeDictionary\obj\Debug\EmployeeDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise4\EmployeeDictionary\obj\Debug\EmployeeDictionary.exe
+C:\Users\Lory\source\repos\CSC107-Collections\Exercise4\EmployeeDictionary\obj\Debug\EmployeeDictionary.pdb

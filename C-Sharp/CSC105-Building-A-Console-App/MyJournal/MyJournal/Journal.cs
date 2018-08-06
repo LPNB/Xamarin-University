@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MyJournal
+{
+    class Journal
+    {
+        // fields
+        public string JournalMessage = "Welcome to my Journal!";
+
+        private string journalPassword = "1234";
+        private bool journalUnlocked = false;
+        private JournalEntry entry = new JournalEntry();
+
+        // properties
+        public JournalEntry Entry
+        {
+            get
+            {
+                if (journalUnlocked)
+                {
+                    return entry;
+                }
+                else
+                {
+                    return null;
+                }
+            }
+        }
+        
+        // methods
+        public bool UnlockJournal(string password)
+        {
+            if (journalPassword == password)
+            {
+                journalUnlocked = true;
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public void LockJournal()
+        {
+            journalUnlocked = false;
+        }
+    }
+}
