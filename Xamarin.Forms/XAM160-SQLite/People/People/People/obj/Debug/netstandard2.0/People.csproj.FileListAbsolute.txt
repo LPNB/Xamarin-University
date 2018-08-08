@@ -1,0 +1,12 @@
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\bin\Debug\netstandard2.0\People.deps.json
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\bin\Debug\netstandard2.0\People.dll
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\bin\Debug\netstandard2.0\People.pdb
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.dll
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.pdb

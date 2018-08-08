@@ -1,0 +1,1 @@
+C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People.UWP\People.UWP.csproj;x86
