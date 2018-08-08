@@ -7,6 +7,5 @@ C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\Peopl
 C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
 C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
 C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
-C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.dll
 C:\Users\Lory\Xamarin-University\Xamarin.Forms\XAM160-SQLite\People\People\People\obj\Debug\netstandard2.0\People.pdb
