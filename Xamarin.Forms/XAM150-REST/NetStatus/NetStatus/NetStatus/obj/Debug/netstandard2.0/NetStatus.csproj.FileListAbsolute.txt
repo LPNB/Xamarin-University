@@ -1,0 +1,12 @@
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\bin\Debug\netstandard2.0\NetStatus.deps.json
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\bin\Debug\netstandard2.0\NetStatus.dll
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.csprojAssemblyReference.cache
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.csproj.CoreCompileInputs.cache
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.AssemblyInfoInputs.cache
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.AssemblyInfo.cs
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\bin\Debug\netstandard2.0\NetStatus.pdb
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.dll
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.pdb
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetworkViewPage.xaml.g.cs

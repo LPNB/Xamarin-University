@@ -1,0 +1,1 @@
+C:\Users\Lory\source\repos\XAM150-REST\NetStatus\NetStatus\NetStatus.UWP\NetStatus.UWP.csproj;x86
